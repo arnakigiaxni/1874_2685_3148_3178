@@ -1,0 +1,40 @@
+﻿span {color:red;}
+
+* {font-family:Georgia, serif;
+	color:#322D29;
+	text-align:center;}
+
+body {background-image:url('photos/back.jpg');}
+
+#wrapper {width:60%;
+		margin:auto;
+		background-color:#93867A;}
+
+#menu {background-color:white;
+		padding:20px;}
+		
+.menu_item {font-weight:bold;}
+
+a {text-decoration:none;
+	color:#69625B;}
+	
+a:hover {color:red;}
+
+input {text-align:left;}
+
+textarea {resize:vertical;
+		text-align:left;}
+
+.red {background-color:white;
+	color:red;
+	font-size:200%;
+	padding:1%}
+	
+.green {background-color:white;
+	color:green;
+	font-size:200%;
+	padding:1%}
+	
+#red2 {color:red;}
+
+#red2:hover {text-decoration:underline;}

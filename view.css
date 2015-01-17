@@ -1,0 +1,45 @@
+﻿* {font-family:Georgia, serif;
+	color:#322D29;
+	text-align:center;}
+
+body {background-image:url('photos/back.jpg');}
+
+.wrapper {width:60%;
+		margin:auto;
+		background-color:#93867A;}
+
+#menu {background-color:white;
+		padding:20px;}
+		
+.menu_item {font-weight:bold;}
+
+a {text-decoration:none;
+	color:#69625B;}
+	
+a:hover {color:red;}
+
+input {text-align:left;}
+
+img {width:150px;
+	height:150px;
+	padding:1px;}
+	
+	
+#onoma {width:160px;}
+
+#xronos {width:7%;}
+
+#eidos {width:40px;}
+
+.no_line {text-decoration:none;
+			color:red;}
+
+table {border-collapse:collapse;}
+
+span {color:red;}
+
+#wrapper2 {width:166%;
+		position:relative;
+		right:33%;
+		margin:auto;
+		background-color:#93867A;}
